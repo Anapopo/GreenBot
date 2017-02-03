@@ -1,0 +1,9 @@
+/.vscode/*
+/bin/*
+/plugins/*
+*.log
+f1\.jpg
+
+src/greenbot/element/Bot\.php
+
+src/greenbot/utils/Soit\.php
